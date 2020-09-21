@@ -1,0 +1,5 @@
+collections:
+  - name: rubrikinc.cdm
+    version: 1.0.3
+  - name: netapp.ontap
+    version: 20.2.0
