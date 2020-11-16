@@ -4,4 +4,4 @@
   tasks:
   - name: debug
     debug:
-      msg: "file added"
+      msg: "file added to foo#bar branch"
